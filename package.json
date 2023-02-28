@@ -1,0 +1,17 @@
+{
+  "name": "xmlnodejs",
+  "version": "1.0.0",
+  "description": "new project",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "jsonfile": "^6.1.0",
+    "xml2js": "^0.4.23"
+  }
+}
